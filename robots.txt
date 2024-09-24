@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aninboa.github.io/sitemap.html.gz
+Sitemap: https://aninboa.github.io/app/sitemap.html.gz
+Sitemap: https://aninboa.github.io/assets/sitemap.html.gz
+Sitemap: https://aninboa.github.io/css/sitemap.html.gz
+Sitemap: https://aninboa.github.io/data/sitemap.html.gz
+Sitemap: https://aninboa.github.io/includes/sitemap.html.gz
+Sitemap: https://aninboa.github.io/item/sitemap.html.gz
+Sitemap: https://aninboa.github.io/src/sitemap.html.gz
